@@ -24,9 +24,9 @@
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
 | 📸 **Dakoda Photography** | Live client portfolio website | React, Tailwind CSS, JS | [dakodamcgregor.ca](https://dakodamcgregor.ca/) |
-| ✈️ **AI Trip Planner** | AI-powered travel itinerary generator in 20+ languages | React, Firebase, Gemini AI | [View Repo](https://github.com/Hardikvaghasiya/salon-booking-system) |
-| ✅ **Smart Task Manager** | Full-stack Kanban task manager with RBAC | React, Node.js, MongoDB, JWT | [View Repo](#) |
-| 💇 **Salon Booking Platform** | Appointment booking system with admin dashboard | PHP, MySQL, PHPMailer | [View Repo](#) |
+| ✈️ **AI Trip Planner** | AI-powered travel itinerary generator in 20+ languages | React, Firebase, Gemini AI | [View Repo](https://github.com/nic-dgl-409-2025wi/project-Hardikvaghasiya) |
+| ✅ **Smart Task Manager** | Full-stack Kanban task manager with RBAC | React, Node.js, MongoDB, JWT | [View Repo](https://github.com/codebluenick/dgl104-appdevproj-groupWHPH) |
+| 💇 **Salon Booking Platform** | Appointment booking system with admin dashboard | PHP, MySQL, PHPMailer | [View Repo](https://github.com/Hardikvaghasiya/salon-booking-system) |
 
 ---
 
